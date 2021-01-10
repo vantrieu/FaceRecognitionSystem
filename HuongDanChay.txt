@@ -1,0 +1,17 @@
+Cài đặt thư viện bằng lệnh cmd:
+    pip install opencv-python
+    pip install opencv-contrib-python
+
+Cấu hình CSDL:
+    Trong SQLServer, tạo 1 cơ sở dữ liệu tên data, có 1 table là people với 2 trường ID(int) và Name(nvarchar(50))
+    Hoặc có thể chạy file data.sql để sinh database
+    
+Các bước chạy:
+    Chạy file Main.py để bắt đầu ứng dụng
+    Chọn các module để dùng các chức năng.
+
+Linh tham khảo nhận diện khuôn mặt:
+    https://www.youtube.com/watch?v=Lusa912ax5g&list=PLhNOeFa5jP4gQz4NIe_nxaJ8ZoVqXyYWC
+
+Library dùng để làm giao diện:
+    tkinter
